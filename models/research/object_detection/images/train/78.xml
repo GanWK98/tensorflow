@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Train_Data</folder>
+	<filename>78.jpg</filename>
+	<path>C:\Users\User\OneDrive\Pictures\FYP\Datasets\Train_Data\78.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>937</width>
+		<height>687</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>13</ymin>
+			<xmax>935</xmax>
+			<ymax>683</ymax>
+		</bndbox>
+	</object>
+</annotation>

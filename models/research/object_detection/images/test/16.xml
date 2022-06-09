@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Test_Data</folder>
+	<filename>16.jpg</filename>
+	<path>C:\Users\User\OneDrive\Pictures\FYP\Datasets\Test_Data\16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>192</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>4</ymin>
+			<xmax>172</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>
